@@ -1,0 +1,2260 @@
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Statement of Financial Condition
+June 30, 2019
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Assets
+Cash
+Cash segregated pursuant to federal regulations
+Securities borrowed
+Securities purchased under agreements to resell
+Receivable from broker-dealers and clearing organizations
+Receivable from customers, net
+Financial instruments owned, at fair value ($43,894,146 pledged as collateral)
+Property, equipment, and leasehold improvements, net
+Goodwill
+Receivable from affiliates
+Other assets
+Total assets
+
+$
+
+131,280
+1,572,487
+35,323,718
+27,667,790
+13,721,240
+6,785,211
+57,865,577
+3,468
+79,687
+4,719
+601,909
+
+$
+
+143,757,086
+
+$
+
+89,424,345
+7,658,741
+12,732,166
+502,296
+724,435
+13,235,594
+6,120,796
+23,632
+557,253
+
+Liabilities and Member’s Equity
+Liabilities:
+Securities sold under agreements to repurchase
+Securities loaned
+Payable to customers
+Payable to broker-dealers and clearing organizations
+Payable to non-customers
+Financial instruments sold, not yet purchased, at fair value
+Borrowings
+Payable to affiliates
+Other liabilities
+Total liabilities
+
+130,979,258
+
+Subordinated borrowings
+
+7,300,000
+
+Member’s equity:
+Member’s contributions
+Accumulated earnings
+
+1,565,243
+3,912,585
+
+Total member’s equity
+
+5,477,828
+
+Total liabilities and member’s equity
+
+$
+
+2
+
+143,757,086
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(1)
+
+Organization
+
+Wells Fargo Securities, LLC (the Company) is organized as a Limited Liability Company. The Company is a
+wholly-owned subsidiary of Everen Capital Corporation (Everen), which is a wholly owned subsidiary of Wells
+Fargo & Company (WFC). WFC is registered with the Federal Reserve Board as a financial holding company in
+accordance with the Gramm-Leach-Bliley Act of 1999 (GLBA).
+The Company is registered as a broker-dealer with the Securities and Exchange Commission (SEC) and is a
+member of the Financial Industry Regulatory Authority and the Securities Investment Protection Corporation.
+The Company is also a registered Futures Commission Merchant (FCM) with the Commodities Futures Trading
+Commission (CFTC) and a member of the National Futures Association. The Company engages in a wide variety
+of securities activities in accordance with its status as an affiliate of a financial holding company under the
+provisions of the GLBA. In general, securities sold by the Company are not bank deposits and are not insured by
+the Federal Deposit Insurance Corporation.
+The Company clears some of its customers’ transactions through Wells Fargo Clearing Services, LLC (WFCS),
+an affiliated broker-dealer, on a fully disclosed basis.
+The Company self clears the majority of its institutional customer accommodation and market-making
+transactions. Some futures are carried and cleared by an unaffiliated broker-dealer.
+The Company is approved to act as a clearing prime broker. The Company is also designated as a Primary Dealer
+in U.S. government securities by the Federal Reserve Bank of New York.
+The Company is a member of various exchanges where it is approved to trade, execute and clear interest rate
+swaps, futures and options.
+On February 7, 2019, S&P Global (S&P) affirmed the long- and short-term issuer credit ratings of A+/A-1 on the
+Company. The ratings on the Company are based on its core status to WFC under S&P’s group ratings
+methodology.
+(2)
+
+Summary of Significant Accounting Policies
+(a)
+
+Accounting Standards Adopted in 2019
+
+Accounting Standards Update (“ASU”) 2016-02 Leases (Topic 842) requires lessees to recognize leases on
+the Statement of Financial Condition with lease liabilities and corresponding right-of-use assets based on
+the present value of lease payments. The Company adopted the guidance in January 2019 using the modified
+retrospective method and practical expedients for transition. The practical expedients allowed the Company
+to largely account for its leases Standard consistent with prior guidance except for the incremental Statement of
+Financial Condition recognition for lessees. The implementation of this guidance did not have a material
+impact on the measurement, recognition or disclosure of leases in its Statement of Financial Condition.
+(b)
+
+Accounting guidance not yet adopted
+
+ASU 2016-13 Standard Performace Measurement of Credit Losses on Financial Instruments (Topic 326) changes the accounting
+for credit losses on loans and debt securities. For loans and held-to-maturity debt securities, the new
+3
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+guidance requires a current expected credit loss (CECL) approach to determine the allowance for credit
+losses. CECL requires loss estimates for the remaining estimated life of the financial asset using historical
+experience, current conditions, and reasonable and supportable forecasts. The guidance is effective January
+2020 with a cumulative effect adjustment to retained earnings as of the beginning of the year of adoption.
+While early adoption was permitted beginning in January 2019, the Company did not elect the option. The
+Company is still evaluating the impact of this new guidance on its Statement of Financial Condition.
+(c)
+
+Securities Purchased/Sold Under Agreements to Resell/Repurchase
+
+Transactions involving securities purchased under agreements to resell (reverse repurchase agreements) or
+securities sold under agreements to repurchase (repurchase agreements) are treated as collateralized
+financing transactions and are recorded at their contracted resale or repurchase amounts. These transactions
+are primarily repurchase agreements of United States government and agency securities and corporate
+bonds. The Company’s exposure to credit risk associated with the nonperformance of customers in fulfilling
+these contractual obligations can be directly affected by volatile trading markets, which may impair the
+customers’ ability to satisfy their obligations to the Company. It is the Company’s policy to report reverse
+repurchase agreements and repurchase agreements with the same counterparty on a net basis when the
+conditions for netting as specified in U.S. generally accepted accounting principles (U.S. GAAP) are met.
+It is the Company’s policy to obtain possession of securities purchased under agreements to resell. The
+Company manages the credit risk associated with these transactions by monitoring the market value of the
+collateral obtained, including accrued interest, and by requesting additional collateral when deemed
+appropriate.
+(d)
+
+Securities Transactions
+
+Financial instruments owned and financial instruments sold, not yet purchased are carried at fair value and
+recorded on a trade-date basis.
+Customers’ securities transactions are recorded on a settlement date basis with related commission revenue
+and expenses recorded on a trade-date basis. Securities owned by customers, including those that
+collateralize margin or other similar transactions, are not reflected in the Statement of Financial Condition
+as the Company does not have title to those assets. In the event of uncompleted transactions on settlement
+date, the Company records corresponding receivables and payables, respectively. The carrying value of the
+receivables and payables approximates their fair values.
+(e)
+
+Securities Lending Activity
+
+Securities borrowed and securities loaned are reported as collateralized financing transactions and are
+carried at the contracted amounts of cash collateral received or paid in connection with those transactions.
+The Company receives collateral generally in excess of the market value of securities loaned. The Company
+monitors the market value of securities borrowed and loaned on a daily basis, with additional collateral
+obtained or refunded as necessary.
+In accordance with U.S. GAAP, when the Company borrows securities against securities collateral, the
+Company is not required to record those transactions in the Statement of Financial Condition.
+4
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(f)
+
+Derivatives
+
+Derivative financial instruments are used for trading purposes, including economic hedges of trading
+instruments, and are recorded at fair value. Fair values for exchange traded derivatives, principally futures
+and certain options, are based on quoted market prices. Fair values for over-the-counter derivative financial
+instruments, principally interest rate, credit default or total return swaps, forwards, and options, are based
+on quoted market prices for similar instruments, pricing models and discounted cash flow analyses, and are
+included in financial instruments owned and financial instruments sold, not yet purchased in the
+accompanying Statement of Financial Condition.
+Most of the Company’s derivative transactions are executed under master netting arrangements. The
+Company reflects all derivative balances and related cash collateral subject to enforceable master netting
+arrangements on a net basis in the Statement of Financial Condition. Statement of Financial Condition
+netting adjustments are determined based on the terms specified within each master netting arrangement
+and at the counterparty level for which there may be multiple contract types. For disclosure purposes,
+adjustments are allocated to the contract type for each counterparty proportionately based upon gross
+amounts recognized by counterparty. As a result, the net amounts disclosed by contract type may not
+represent the actual exposure upon settlement of the contracts. Statement of Financial Condition netting
+does not include non-cash collateral that is received and pledged.
+The Company applies settlement to market treatment for the cash collateralizing its interest rate derivative
+contracts with certain centrally cleared counterparties. As a result, derivative balances with these
+counterparties are considered settled by the collateral.
+(g)
+
+Income Taxes
+
+The Company is a single member limited liability company and is treated as a disregarded entity pursuant
+to Treasury Regulation Section 301.7701-3 for federal income tax purposes. Generally, disregarded entities
+are not subject to entity-level federal or state income taxation and, as such, the Company does not provide
+for income taxes under FASB ASC 740, Income Taxes. The Company’s taxable income is reported in the
+tax return of Everen. There are no tax sharing agreements between the Company and Everen.
+Certain states and foreign jurisdictions may subject the Company to entity-level taxation as a single member
+limited liability company; however, there is not a material provision for state and foreign income taxes for
+period ended June 30, 2019. The Company files tax returns in various states and local jurisdictions and is
+subject to income tax examinations by those tax authorities for years 2007 and forward.
+Due to the Company’s status as a disregarded entity for income tax purposes, the related balance sheet
+accounts including income tax receivable/payable and deferred tax assets and liabilities are immaterial to
+the Statement of Financial Condition.
+Morning stars 
+Based upon its evaluation, the Company has concluded that there are no significant uncertain income tax
+positions relevant to the jurisdictions where it is required to file income tax returns requiring recognition in
+the Statement of Financial Condition. Management monitors proposed and issued tax laws, regulations and
+cases to determine the potential impact to uncertain income tax positions. The Company had no accrued
+interest or penalties at June 30, 2019. At June 30, 2019, management had not identified any potential
+5
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+subsequent events that would have a material impact on unrecognized income tax benefits within the next
+twelve months.
+(h)
+
+Goodwill
+
+Goodwill is not subject to amortization but is subject to impairment testing on an annual basis, or more
+often if events or circumstances indicate possible impairment. The Company has an option of performing
+a qualitative assessment of goodwill. The Company may elect to bypass the qualitative test and proceed
+directly to a quantitative test to compare the estimated fair value to the carrying value. If the reporting unit’s
+fair value is less than the carrying amount, an additional test is required to measure the amount of
+impairment. The Company recognizes impairment losses as a charge to expenses and an adjustment to the
+carrying value of the goodwill asset. The Company’s most recent impairment evaluation indicated that the
+Company’s goodwill was not impaired and there are no events or circumstances that indicate possible
+impairment as of June 30, 2019. At June 30, 2019, WFS had one reporting unit.
+(i)
+
+Property, Equipment, and Leasehold Improvements
+
+Property, equipment, and leasehold improvements are stated at cost, less accumulated depreciation and
+amortization. Depreciation of property and equipment is recognized on a straight-line basis using estimated
+useful lives, which generally range from three to ten years. Leasehold improvements are amortized over
+the lesser of the estimated useful life of the improvement or the term of the lease.
+(j)
+
+Use of estimates
+
+The preparation of the Statement of Financial Condition in conformity with U.S. GAAP requires
+management to make estimates and assumptions that affect reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the Statement of Financial Condition and the
+reported amounts of revenues and expenses during the reporting period. Actual results could differ from
+those estimates.
+(3)
+
+Cash and Securities Segregated Pursuant to Federal Regulations
+
+Under the provisions of Rule 15c3-3 of the Securities and Exchange Commission (SEC), a reserve requirement
+did not exist at June 30, 2019 and therefore no cash or securities were on deposit at June 30, 2019. There is no
+required deposit for the proprietary accounts of brokers (PAB), and therefore no cash or securities were on deposit
+at June 30, 2019.
+As an FCM, the Company is required to segregate funds in a cleared swap customer account, a secured funds
+account and a segregated funds account under rules mandated by the CFTC. For these purposes, $118,372,
+$55,450, and $15,420, respectively, is held in accounts at non affiliate banks and is reflected in cash segregated
+pursuant to federal regulations in the Statement of Financial Condition. In addition, $890,837 of client cleared
+swaps funds, $47,582 of secured funds and $444,826 of segregated funds, are held in accounts at an affiliate bank,
+and reflected in cash segregated pursuant to Federal regulations in the Statement of Financial Condition.
+The Company is required to post margin at exchanges to meet customer and firm requirements. The Company
+deposited $2,672,580 of investments of customer funds in securities with clearing organizations as margin at June
+30, 2019. These segregated securities are included in financial instruments owned, at fair value in the Statement
+6
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+of Financial Condition. The Company also entered into securities purchased under agreement to resell contracts
+using $10,701 of customers’ secured funds at June 30, 2019.
+Additionally, the Company segregated $6,418,356 of customer specific owned securities deposited at nonaffiliated banks and clearing organizations at June 30, 2019. These segregated securities are not included in the
+Statement of Financial Condition.
+(4)
+
+Receivable from and Payable to Customers
+
+Receivable from and payable to customers represent the balances arising in connection with the settlement of
+cash securities, derivative and securities-based lending transactions. Receivables from customers also include
+margin loans to customers and customer cash debits. Payable to customers includes customer free credits. It is
+the Company’s policy to report margin loans and payables that arise due to positive cash flows in the same
+customer’s accounts on a net basis when the conditions for netting as specified in U.S. GAAP are met. The
+amounts receivable from customers are generally collateralized by securities owned by the customer, the value of
+which is not reflected in the accompanying Statement of Financial Condition. At June 30, 2019, customer
+receivables of $65,417 were unsecured.
+The Company has established an allowance for doubtful accounts to offset amounts deemed uncollectible from
+unsecured customer balances receivable. Receivable from customers is reported net of the allowance for doubtful
+accounts in the amount of $2,846 as of June 30, 2019.
+(5)
+
+Receivable from and Payable to Broker-Dealers and Clearing Organizations
+
+Receivable from and payable to broker-dealers and clearing organizations consist of the following at June 30,
+2019:
+Receivable from broker-dealers and clearing organizations:
+Unsettled trades, net
+$
+8,905,093
+Receivable from derivative clearing organizations
+2,787,030
+Guaranty deposits
+1,210,428
+Securities failed to deliver
+241,750
+Clearing fund deposits
+217,939
+Syndicate receivable
+155,529
+Receivable from carrying brokers
+116,057
+Receivable from clearing corporations
+74,709
+Other
+12,705
+$ 13,721,240
+Payable to broker-dealers and clearing organizations:
+Securities failed to receive
+$
+315,418
+Syndicate payable
+143,213
+Payable to derivative clearing organizations
+43,665
+$
+502,296
+7
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(6)
+
+Payable to Non-Customers
+
+Payable to Non-Customers represent payable to affiliates for their futures, options and cleared swaps accounts
+that the Company clears for them. The balance consists of the following at June 30, 2019:
+
+Payable to Wells Fargo Bank, N.A.
+Payable to Wells Fargo Commodities, LLC
+Payable to Wells Fargo Fund Management, LLC
+Payable to Union Hamilton Reinsurance, Ltd.
+
+$
+
+$
+(7)
+
+679,815
+23,611
+17,875
+3,134
+724,435
+
+Financial Instruments Owned and Financial Instruments Sold, Not Yet Purchased
+
+At June 30, 2019 financial instruments owned and financial instruments sold, not yet purchased consisted of
+trading securities and derivatives reported at fair value as presented below:
+Financial
+Financial
+instruments
+instruments
+sold, not yet
+owned
+purchased
+Corporate obligations
+$ 10,100,835
+(4,236,435)
+Collateralized loan obligations and asset-backed securities
+1,943,682
+(10,354)
+Mortgage-backed securities
+30,689,112
+(531,663)
+U.S. government, U.S. agency and municipal government
+obligations
+12,864,047
+(5,860,841)
+Equity securities
+2,074,962
+(2,282,546)
+Derivatives:
+Interest rate contracts
+188,934
+(313,217)
+Equity contracts
+3,841
+(125)
+Foreign exchange contracts
+(3)
+Credit contracts
+164
+(410)
+$ 57,865,577
+(13,235,594)
+U.S. government securities of $1,329,565 have been pledged to clearing organizations as of June 30, 2019.
+Financial instruments owned at June 30, 2019, included debt securities issued by WFC with a fair value of
+$300,755 included in corporate obligations in the table above.
+(8)
+
+Variable Interest Entities (VIEs) and Securitizations
+
+The Company acts as underwriter for other subsidiaries of WFC and third parties that securitize financial assets,
+and may make a market in these securitized financial assets. These securities are accounted for at fair value and
+are included in financial instruments owned, at fair value in the Statement of Financial Condition.
+The Company purchases and sells financial instruments in VIEs in connection with its market making activities.
+These financial instruments in VIEs include senior and subordinated tranches of collateralized mortgage
+obligations (CMOs), collateralized debt obligations (CDOs), collateralized loan obligations (CLOs), and other
+8
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+asset backed securities. The Company has made no liquidity arrangements, guarantees or commitments with third
+parties related to these holdings. The Company’s maximum exposure to loss related to these VIEs is limited to
+the carrying amount of the financial instruments owned.
+During the period ended June 30, 2019, there were no transfers of debt securities into VIEs. The prior
+securitizations were primarily U.S. government agency or U.S. Government Sponsored Enterprise (GSE)
+sponsored collateralized mortgage obligations. These securitizations were done principally on behalf of customers
+to facilitate their purchase of agency backed mortgage securities that conform to their investment profile. The
+Company is not the primary beneficiary of these VIEs because it does not have the power to direct the activities
+that most significantly impact the U.S. government agency or U.S. GSE sponsored collateralized mortgage
+obligation entities. As of June, 30, 2019, the Company held $86,510 of securities related to securitizations for
+which the Company included in financial instruments owned, at fair value in the Statement of Financial Condition.
+The Company would consolidate a VIE if it is the primary beneficiary, which is defined as the party that has both
+the power to direct the activities that most significantly impact the VIE’s performance and the obligation to absorb
+losses or right to receive benefits that could potentially be significant to the VIE. The Company was not required
+to consolidate any interest in VIEs.
+The following tables provide a summary of unconsolidated VIEs with which the Company has significant
+continuing involvement. Significant continuing involvement includes transactions where the Company was the
+sponsor or transferor and has other significant forms of involvement. Sponsorship includes transactions with
+unconsolidated VIEs where the Company solely or materially participated in the initial design or structuring of
+the entity or marketing of the transaction to investors. When the Company transfers assets to a VIE and accounts
+for the transfer as a sale, the Company is considered the transferor. The tables do not include offsetting financial
+instruments that are held to mitigate the risks associated with these variable interest entities.
+In the following tables, “Total VIE assets” represents the remaining principal balance of assets held by
+unconsolidated VIEs using the most current information available. “Carrying value” is the amount in our
+Statement of Financial Condition related to our involvement with the unconsolidated VIEs. “Maximum exposure
+to loss” from our involvement with off-balance sheet entities equals the carrying value of involvement with offbalance sheet (unconsolidated) VIEs as of June 30, 2019, as the Company does not have any other commitments
+or guarantees with those entities.
+
+Total VIE assets
+Residential mortgage loan securitizations:
+Conforming
+Other/nonconforming (1)
+Commercial mortgage securitizations
+
+$
+
+$
+
+60,953,481
+235,225
+2,665,159
+63,853,865
+
+Carrying value - asset (liability)
+Debt and equity
+interests
+Total Assets
+86,510
+86,510
+
+(1) Nonconforming residential mortgage loan securitizations are comprised of loans that do not conform to either
+
+government-sponsored entity or Federal Housing Administration standards.
+
+9
+
+86,510
+86,510
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Maximum exposure to loss
+Debt and
+equity
+Total exposure
+interests
+Residential mortgage loan securitizations:
+Conforming
+Other/nonconforming
+Commercial mortgage securitizations
+Total
+
+(9)
+
+$
+
+$
+
+86,510
+86,510
+
+86,510
+86,510
+
+Fair Value Measurements
+
+In accordance with FASB ASC 820, Fair Value Measurement, the Company groups its assets and liabilities
+measured at fair value in three levels based on the markets in which the assets and liabilities are traded and the
+reliability of the assumptions used to determine fair value. These levels are:
+Level 1 – Valuation is based upon quoted prices for identical instruments traded in active markets.
+Level 2 – Valuation is based upon quoted prices for similar instruments in active markets, quoted prices for
+identical or similar instruments in markets that are not active, and model-based valuation techniques for which
+all significant assumptions are observable in the market.
+Level 3 – Valuation is generated from techniques that use significant assumptions not observable in the market.
+These unobservable assumptions reflect estimates of assumptions that market participants would use in pricing
+the asset or liability. Valuation techniques include use of marker comparable pricing, option pricing models,
+discounted cash flow models and similar techniques.
+In the determination of the classification of financial instruments in Level 2 or Level 3 of the fair value hierarchy,
+the Company considers all available information, including observable market data, indications of market
+liquidity and orderliness, and the Company’s understanding of the valuation techniques and significant inputs
+used. Based upon the specific facts and circumstances of each instrument or instrument category, judgments are
+made regarding the significance of the Level 3 inputs to the instruments’ fair value measurement in its entirety.
+If Level 3 inputs are considered significant, the instrument is classified as Level 3.
+The following sections describe the valuation methodologies used by the Company to measure classes of financial
+instruments at fair value and specify the level in the fair value hierarchy where various financial instruments are
+generally classified. Valuation models, significant inputs to those models and any significant assumptions are
+included where appropriate.
+The Company uses quoted prices in active markets, where available, and classifies such instruments within Level
+1 of the fair value hierarchy. Examples include exchange traded equity securities and some highly liquid
+government securities such as U.S. Treasuries. When instruments are traded in secondary markets and quoted
+market prices do not exist for such securities, the Company generally relies on internal valuation techniques or
+on prices obtained from third party pricing services (vendors) or brokers or combination thereof, and accordingly,
+classifies these instruments as Level 2 or 3.
+10
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Financial instruments are mostly valued using internal trader prices that are subject to price verification
+procedures performed by independent internal personnel. The majority of fair values derived using internal
+valuation techniques are verified against multiple pricing sources, including prices obtained from third party
+vendors. Vendors compile prices from various sources and often apply matrix pricing for similar securities when
+no price is observable. The Company reviews pricing methodologies provided by the vendors in order to
+determine if observable market information is being used, versus unobservable inputs. When evaluating the
+appropriateness of an internal trader price compared with vendor prices, considerations include the range and
+quality of vendor prices. Vendor or broker prices are used to ensure the reasonableness of a trader price; however
+valuing financial instruments involves judgments acquired from knowledge of a particular market. If a trader
+asserts that a vendor or broker price is not reflective of market value, justification for using the trader price,
+including recent sales activity where possible, must be provided to and approved by the appropriate levels of
+management.
+Similarly, while trading securities traded in secondary markets are typically valued using unadjusted vendor
+prices, these prices are reviewed and may be adjusted using quoted market prices for similar securities if
+determined necessary. These securities are classified as Level 2 of the hierarchy. Examples include certain U.S.
+government, U.S. agency and municipal government obligations, corporate obligations, and certain mortgagebacked securities (MBS).
+Security fair value measurements using significant inputs that are unobservable in the market due to limited
+activity or a less liquid market are classified as Level 3 in the fair value hierarchy. Such measurements include
+securities valued using internal models or a combination of multiple valuation techniques such as weighting of
+internal models and vendor or broker pricing, where the unobservable inputs are significant to the overall fair
+value measurement. Securities classified as Level 3 include certain residential and commercial MBS, other asset
+backed securities, CDOs and certain CLOs, and certain residual and retained interests in residential mortgage loan
+securitizations. The Company values CDOs using the prices of similar instruments, the pricing of completed or
+pending third party transactions or the pricing of the underlying collateral within the CDO. Where vendor or
+broker prices are not readily available, the Company uses management’s best estimate.
+The Company enters into both exchange traded and over-the-counter (OTC) derivatives. Quoted market prices
+are available and used for the Company’s exchange traded derivatives, such as certain interest rate futures and
+option contracts, which the Company classifies as Level 1. However, a majority of the Company’s derivatives
+are traded in OTC markets where quoted market prices are not readily available. OTC derivatives are valued using
+internal valuation techniques. Valuation techniques and inputs to internally developed models depend on the type
+of derivative and nature of the underlying rate, price or index upon which the derivative’s value is based. Key
+inputs can include yield curves, credit curves, foreign exchange rates, prepayment rates, volatility measurements
+and correlation of such inputs. Where model inputs can be observed in a liquid market and the model does not
+require significant judgment, such derivatives are typically classified as Level 2 of the fair value hierarchy.
+Examples of derivatives classified as Level 2 include generic interest rate swaps and certain option and forward
+contracts. When instruments are traded in less liquid markets and significant inputs are unobservable, such
+derivatives are classified as Level 3. Examples of derivatives classified as Level 3 include complex and highly
+structured derivatives such as certain credit default swaps. Additionally, significant judgments are required when
+classifying financial instruments within the fair value hierarchy, particularly between Level 2 and 3, as is the case
+for certain derivatives.
+11
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Assets and liabilities measured at fair value at June 30, 2019 on a recurring basis are summarized below:
+Assets and Liabilities Recorded at Fair Value on a Recurring Basis
+Level 1
+Level 2
+Level 3
+Netting (a)
+Financial instruments owned (excluding derivatives):
+Corporate obligations
+$
+10,057,033
+43,802
+Collateralized loan
+obligations and
+asset-backed securities
+1,710,204
+233,478
+Mortgage-backed securities
+30,689,112
+US government, US agency
+and municipal government
+obligations
+11,027,949
+1,836,038
+60
+Equity securities
+1,963,414
+109,639
+1,909
+Money market securities
+Derivatives:
+Interest rate contracts
+910,369
+(721,435)
+Equity contracts
+296,577
+(292,736)
+Foreign exchange contracts
+710
+(710)
+Credit contracts
+85,712
+(85,548)
+$
+13,287,940
+45,398,817
+279,249
+(1,100,429)
+Financial instruments sold, not yet purchased (excluding derivatives):
+Corporate obligations
+$
+(4,236,422)
+Collateralized loan
+obligations and
+asset-backed securities
+(10,354)
+Mortgage-backed securities
+(531,663)
+US government, US agency
+and municipal government
+obligations
+(5,749,223)
+(111,616)
+Equity securities
+(2,282,292)
+(254)
+Derivatives:
+Interest rate contracts
+(1,054)
+(1,008,122)
+Equity contracts
+(291,863)
+(63,365)
+Foreign exchange contracts
+(1,840)
+Credit contracts
+(116,484)
+$
+(8,324,432)
+(6,080,120)
+(a)
+
+Total
+10,100,835
+
+1,943,682
+30,689,112
+
+12,864,047
+2,074,962
+188,934
+3,841
+164
+57,865,577
+
+(13)
+
+-
+
+(4,236,435)
+
+-
+
+-
+
+(10,354)
+(531,663)
+
+-
+
+-
+
+(5,860,839)
+(2,282,546)
+
+(2,470)
+(150)
+(2,633)
+
+695,959
+357,573
+1,837
+116,222
+1,171,591
+
+(313,217)
+(125)
+(3)
+(412)
+(13,235,594)
+
+The netting of securities owned (assets) by the amount of securities sold but not yet purchased (liabilities) occurs when the securities
+owned and the securities sold but not yet purchased have identical Committee on Uniform Security Identification Procedures (CUSIPs)
+numbers. Derivative assets and derivative liabilities subject to an enforceable master netting arrangement and related cash collateral are
+also netted on the accompanying Statement of Financial Condition when GAAP conditions have been met.
+
+Changes in Fair Value Levels
+The availability of observable market data is monitored to assess the appropriate classification of financial
+instruments within the fair value hierarchy and transfer between Level 1, Level 2, and Level 3 accordingly.
+Observable market data includes but is not limited to quoted prices and market transactions. Changes in economic
+conditions or market liquidity generally will drive changes in availability of observable market data. Changes in
+12
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+availability of observable market data, which also may result in changing the valuation technique used, are
+generally the cause of transfers between Level 1, Level 2, and Level 3.
+The changes in Level 3 assets and liabilities measured at fair value on a recurring basis for the period ended June
+30, 2019 are summarized in the table below:
+
+Be ginning
+balance
+January 1,
+2019
+Financial instrume nts owne d (e xcluding de rivative s):
+Corporate obligations
+$
+33,614
+Collateralized loan
+obligations and
+asset-backed securities
+235,047
+Mortgage-backed securities
+US government, US agency and
+municipal government
+obligations
+160
+Equity securities
+13,357
+282,178
+$
+
+Change s in Le ve l 3 Asse ts and Liabilitie s on a Re curring Basis
+Total ne t
+Purchase s,
+gains/(losse s)
+issuance s,
+Ending balance
+include d in
+sale s and
+Transfe rs into Transfe rs out of
+June 30,
+e arnings
+se ttle me nts, ne t
+Le ve l 3 (a)
+Le ve l 3 (b)
+2019
+
+2,781
+
+7,386
+
+1,063
+
+(1,042)
+
+43,802
+
+2,614
+
+(5,208)
+-
+
+3,639
+-
+
+-
+
+-
+
+233,478
+-
+
+(11,513)
+-
+
+1,640
+(787)
+
+(100)
+(927)
+9,998
+
+1
+1,064
+
+(12,162)
+(13,204)
+
+60
+1,909
+279,249
+
+(87)
+(8,986)
+
+-
+
+-
+
+-
+
+(13)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(13)
+
+-
+
+-
+
+-
+
+(2,470)
+(150)
+(2,620)
+
+Financial instrume nts sold, not ye t purchase d (e xcluding de rivative s):
+Corporate obligations
+$
+(13)
+Collateralized loan
+obligations and
+asset-backed securities
+Mortgage-backed securities
+US government, US agency and
+municipal government
+obligations
+Equity securities
+$
+(13)
+Ne t de rivative asse ts and liabilitie s:
+Equity contracts, net
+Credit contracts, net
+$
+
+(1,807)
+(250)
+(2,057)
+
+Ne t gains/(losse s)
+include d in e arnings
+re late d to positions
+he ld at pe riod e nd
+
+(890)
+258
+(632)
+
+227
+(158)
+69
+
+(a)
+
+All assets and liabilities transferred into level 3 were previously classified within level 2.
+
+(b)
+
+All assets and liabilities transferred out of level 3 are classified as level 2.
+
+13
+
+(764)
+100
+(664)
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+
+The following table presents gross purchases, sales, issuances and settlements related to the changes in Level 3
+assets and liabilities measured at fair value on a recurring basis for the period ended June 30, 2019.
+
+Purchases
+
+Purchases, Sales, Issuances and Settlements
+Related to Changes in Level 3 Assets and Liabilities
+Sales
+Issuances
+Settlements
+
+Financial instruments (excluding derivatives):
+$
+Corporate obligations, net
+11,488
+Collateralized loan
+obligations and
+122,388
+asset-backed securities
+US government, US
+agency and municipal
+government obligations
+Equity securities
+$
+133,876
+Derivatives (net):
+Equity contracts, net
+Credit contracts, net
+$
+
+Net
+
+(4,102)
+
+-
+
+-
+
+7,386
+
+(114,036)
+
+-
+
+(4,713)
+
+3,639
+
+(100)
+(927)
+
+-
+
+-
+
+(119,165)
+
+-
+
+(4,713)
+
+-
+
+-
+
+-
+
+227
+
+-
+
+-
+
+-
+
+(158)
+69
+
+(100)
+(927)
+
+9,998
+
+227
+(158)
+69
+
+Valuation Techniques – Level 3 Assets and Liabilities Measured at Fair Value on a Recurring Basis
+The following table provides quantitative information about the valuation techniques and significant unobservable
+inputs used in the valuation of substantially all Level 3 assets and liabilities measured at fair value on a recurring
+basis which is used as an internal model.
+
+14
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Fair value
+amount
+reported
+(Level 3)
+
+Valuation technique
+
+S ignificant
+unobservable input
+
+Range of
+unobservable inputs
+Low end
+High end
+of range
+of range
+
+Weighted
+average
+
+Financial instruments (excluding derivatives):
+Corporate obligations (1)
+
+$
+
+Collateralized loan obligations
+US government, US agency and
+
+43,789
+
+M arket comparable pricing
+
+Comparability adjustment
+
+-5.29%
+
+5.78%
+
+-1.51%
+
+233,478
+
+M arket comparable pricing
+
+Comparability adjustment
+
+-11.25%
+
+20.00%
+
+1.77%
+
+60
+
+M arket comparable pricing
+
+Comparability adjustment
+
+0.00%
+
+0.00%
+
+0.00%
+
+1,909
+
+M arket comparable pricing
+
+Comparability adjustment
+
+0.00%
+
+0.00%
+
+0.00%
+
+Volatility factor
+
+11.02%
+
+26.82%
+
+23.43%
+
+Correlation factor
+
+-50.00%
+
+90.00%
+
+61.09%
+
+7.10%
+
+7.10%
+
+7.10%
+
+municipal government
+obligations
+Equity securities
+Total financial
+instruments owned
+
+$
+
+279,236
+
+Derivatives (net):
+Equity contracts
+
+(2,470)
+
+Credit contracts
+Total derivatives
+(1)
+
+$
+
+(150)
+(2,620)
+
+Option pricing model
+M arket comparable pricing
+
+Comparability adjustment
+
+Corporate Obligations are shown net of $(13) of Corporate Obligations sold, not yet purchased.
+
+The valuation techniques used for Level 3 assets and liabilities, as presented in the previous tables, are described
+as follows:
+•
+
+Market Comparable Pricing – Used to determine the fair value of certain instruments by incorporating
+known inputs such as recent transaction prices, pending transactions, or prices of other similar
+investments which require significant adjustment to reflect differences in instrument characteristics.
+
+•
+
+Option Price Modeling – Generally used for instruments in which the holder has a contingent right or
+obligation based on the occurrence of a future event, such as the price of a referenced asset going above
+or below a predetermined strike price. Option pricing models estimate the likelihood of the specified
+event occurring by incorporating assumptions such as volatility estimates, price of the underlying
+instrument and expected rate of return.
+
+Use of these techniques requires determination of relevant inputs and assumptions, some of which represent
+significant unobservable inputs as indicated in the preceding tables. Accordingly, changes in these unobservable
+inputs may have a significant impact on fair value.
+Certain of these unobservable inputs will (in isolation) have a directionally consistent impact on the fair value of
+the instrument for a given change in that input. Alternatively, the fair value of the instrument may move in an
+opposite direction for a given change in another input. Where multiple inputs are used within the valuation
+technique of an asset or liability, a change in one input in a certain direction may be offset by an opposite change
+in another input having a potentially muted impact to the overall fair value of that particular instrument.
+Additionally, a change in one unobservable input may result in a change to another unobservable input (that is,
+changes in certain inputs are interrelated to one another), which may counteract or magnify the fair value impact.
+15
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+Significant unobservable inputs presented in the previous tables are those considered significant to the fair value
+of the Level 3 asset or liability. Unobservable inputs are considered to be significant, if by their exclusion, the
+fair value of the Level 3 asset or liability would be impacted by a predetermined percentage change or based on
+qualitative factors, such as nature of the instrument, type of valuation techniques used, and the significance of the
+unobservable inputs relative to other inputs used within the valuation. Following is a description of the significant
+unobservable inputs provided in the tables.
+•
+
+Comparability adjustment – is an adjustment made to observed market data, such as a transaction price
+in order to reflect dissimilarities in underlying collateral, issuer, rating, or other factors used within a
+market valuation approach expressed as a percentage of an observed price.
+
+•
+
+Volatility factor – is the extent of change in price an item is estimated to fluctuate over a specified
+period of time expressed as a percentage of relative change in price over a period over time.
+
+•
+
+Correlation factor – is the likelihood of one instrument changing in price relative to another based on
+an established relationship expressed as a percentage of relative change in price over a period over time.
+
+Disclosures about Fair Value of Financial Assets and Liabilities
+The table below is a summary of fair value estimates for financial assets and liabilities, excluding financial
+instruments recorded at fair value on a recurring basis, which are included within the Assets and Liabilities
+Recorded at Fair Value on a Recurring Basis table included earlier in this Note. The carrying amounts in the
+following table are recorded on the Statement of Financial Condition under the indicated captions.
+Carrying
+amount
+Financial assets
+Cash
+$
+Cash segregated pursuant to federal regulations
+Securities borrowed
+Securities purchased under agreements to resell
+Receivable from broker dealers and clearing organizations
+Receivable from customers, net
+Receivable from affiliates
+
+131,280
+1,572,487
+35,323,718
+27,667,790
+13,721,240
+6,785,211
+4,719
+
+Financial liabilities
+Securities sold under agreements to repurchase
+Securities loaned
+Payable to customers
+Payable to broker-dealers and clearing organizations
+Payable to non-customers
+Payable to affiliates
+Borrowings
+Subordinated borrowings
+
+89,424,345
+7,658,741
+12,732,166
+502,296
+724,435
+23,632
+6,120,796
+7,300,000
+
+$
+
+Estimated Fair Value Hierarchy
+Level 1
+Level 2
+Level 3
+131,280
+1,572,487
+-
+
+-
+
+Total
+estimated fair
+
+35,323,718
+27,667,790
+13,721,240
+6,785,211
+4,719
+
+-
+
+131,280
+1,572,487
+35,323,718
+27,667,790
+13,721,240
+6,785,211
+4,719
+
+89,424,345
+7,658,741
+12,732,166
+502,296
+724,435
+23,632
+6,120,796
+7,300,000
+
+-
+
+89,424,345
+7,658,741
+12,732,166
+502,296
+724,435
+23,632
+6,120,796
+7,300,000
+
+There were no circumstances which required the Company to measure any assets or liabilities at fair value on a
+nonrecurring basis as of June, 30, 2019.
+16
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(10) Collateral Arrangements
+The Company has accepted securities, which it is permitted to repledge or sell, as collateral for securities
+borrowed transactions and for securities purchased under agreements to resell transactions. At June 30, 2019, the
+fair value of this collateral was $74,674,572 of which $70,437,454 was re-pledged or sold by the Company. The
+collateral is received primarily from other broker dealers or institutional customers and is used by the Company
+to enter into securities lending agreements, securities sold with agreements to repurchase transactions and
+settlements related to financial instruments sold, not yet purchased.
+(11) Property, Equipment and Leasehold Improvements
+Property, equipment, and leasehold improvements consist of the following at June 30, 2019:
+Property and leasehold improvements
+Furniture and equipment
+Commnications and computer equipment
+Lease right of use asset
+
+$
+
+Less: accumulated depreciation and amortization
+Total
+
+$
+
+1,841
+379
+3,682
+3,090
+8,992
+5,524
+3,468
+
+(12) Transactions with Affiliated Parties
+The following items present the Company’s significant transactions with affiliated parties.
+(a) Securities Purchased Under Agreements to Resell and Securities Borrowed
+The Company enters into securities purchased under agreements to resell transactions with affiliates, of
+which $3,910,343 is outstanding at June 30, 2019. The agreements are generally overnight transactions.
+Included in interest receivable at June 30, 2019, related to these transactions is $2,888 due from affiliates.
+The Company also enters into securities borrowed transactions with affiliates, of which $1,564,763 is
+outstanding at June 30, 2019. Included in interest receivable at June 30, 2019, related to these transactions
+is $5,312 due from affiliates.
+(b) Securities Sold Under Agreements to Repurchase and Securities Loaned
+The Company enters into securities sold under agreements to repurchase transactions with affiliates, of
+which $3,633,335 is outstanding at June, 30, 2019. The agreements are generally overnight transactions.
+Included in accrued interest payable at June 30, 2019, from these agreements is $2,721 due to affiliates.
+The Company also enters into securities loaned transactions with affiliates, of which $872,460 were
+outstanding at June 30, 2019. Included in interest payable at June 30, 2019, from these transactions is $1,892
+due to affiliates.
+
+17
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(c) Services Provided by Affiliates to the Company
+Approximately $24,685 of payables in other liabilities at June 30, 2019 are primarily related to expense
+reimbursements due to affiliates.
+(d) Services Provided by the Company to Affiliates
+The Company acts as an agent for WFC and its subsidiaries providing various services. Approximately
+$4,719 of receivables in receivable from affiliates at June 30, 2019 are primarily related to expense
+reimbursements due from affiliates.
+(e) Interest Rate, Equity and Credit Default Swap Transactions
+The Company has entered into interest rate, equity, and credit default swap transactions with Wells Fargo
+Bank, N.A. (WFBNA), an affiliated bank, to economically hedge its financial instrument positions. At June
+30, 2019, the notional value of interest rate swaps are a net sale of payments of fixed interest rates of
+$1,862,400, equity swaps are a net sale of protection of $112,533 and credit default swaps are a net purchase
+of protection of $796,552. The estimated fair values of the interest rate, equity and credit default swaps at
+June 30, 2019, are $33,028, $62,492 and $30,835 respectively, which are included net in financial
+instruments owned in the Statement of Financial Condition. There was cash margin on deposit of $129,510
+in support of this activity at June 30, 2019. Additionally, securities with a market value of $124,331 have
+been pledged by WFBNA to the Company.
+The Company also clears certain interest rate swaps and futures for WFBNA as well as other affiliates.
+(f)
+
+Clearing Services
+
+The Company has entered into a fully disclosed clearing agreement with WFCS to clear some of its
+customers’ securities transactions. The agreement provides for the Company to pay WFCS on a cost plus
+reimbursement arrangement. At June 30, 2019, $28 was receivable from WFCS in connection with the fully
+disclosed clearing arrangement.
+(g) Fails to Deliver and Fails to Receive
+The Company entered into securities transactions with affiliates registered as brokers and/or dealers. At
+June 30, 2019, fails to deliver of $318,360 and fails to receive of $54,085 resulting from these transactions
+are included in receivables from and payable to broker-dealers and clearing organizations, respectively.
+(h) Subordinated Borrowings and Other Borrowings
+The Company has one revolving subordinated loan facility for $8,000,000 with a subsidiary of WFC, WFC
+Holdings, LLC (WFCH). The interest rate is reset monthly based on 3 month LIBOR plus 135 basis points.
+Interest payable to WFCH related to these borrowings totaled $21,737 at June 30, 2019. To the extent that
+such borrowings are required for the Company’s continued compliance with minimum net capital
+requirements, they may not be repaid. The Company’s outstanding borrowings under subordination
+agreements at June 30, 2019 totaled $7,300,000 under the $8,000,000 revolving subordinated note facility
+due December 28, 2021 and carried a variable interest rate of 3.83% at June 30, 2019.
+18
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+In addition, the Company’s other unsecured borrowing agreements it had in place with WFC were canceled
+and new agreements were put in place between the Company and WFCH as of June 30, 2019 and are listed
+in the following table:
+At June 30, 2019
+
+(i)
+
+Description
+
+Committed /
+Uncommitted
+
+Line of Credit
+
+Committed
+
+Short Term Promisory Note
+
+Uncommitted
+
+Line of Credit
+
+Uncommitted
+
+Notional
+$
+
+Outstanding
+Balance
+
+Interest
+Payable
+
+8,000,000
+
+2,100,000
+
+4,817
+
+500,000
+
+20,796
+
+582
+
+6,000,000
+
+4,000,000
+
+9,333
+
+$ 14,500,000
+
+6,120,796
+
+14,732
+
+Employee Benefits, Deferred Compensation and Stock Plans
+
+Defined Contribution Retirement Plans
+WFC sponsors a qualified defined contribution retirement plan (the 401(k) Plan). Under the 401(k) Plan,
+after one month of service, eligible employees may contribute up to 50% of their certified compensation,
+subject to statutory limits. Eligible employees who complete one year of service are eligible for quarterly
+company matching contributions, which are generally dollar for dollar up to 6% of an employee's eligible
+certified compensation. Matching contributions are 100% vested. The 401(k) Plan includes an employer
+discretionary profit sharing contribution feature to allow WFC to make a contribution to eligible employees’
+401(k) Plan accounts for a plan year. Eligible employees who complete one year of service are eligible for
+profit sharing contributions. Profit sharing contributions are vested after three years of service.
+Deferred Compensation and Stock Plans
+The Company participates in WFC’s unfunded deferred compensation plan in which a select group of
+management or highly compensated individuals are participants, as defined. Awards consist of long-term
+deferred cash awards, restricted stock rights (RSRs) and performance share awards (PSAs), which may be
+granted periodically to certain employees.
+The deferred portion of the award further takes the form of RSRs, PSAs and Long Term Cash. Deferred
+cash incentive awards generally vest over a three-year period while, RSRs and PSAs generally vest over
+three to five years, during which time the holder may be entitled to receive additional RSRs, PSAs or cash
+payments equal to the cash dividends that would have been paid had the RSRs or PSAs been issued and
+outstanding shares of common stock. RSRs and PSAs granted as dividend equivalents are subject to the
+same vesting schedule and conditions as the underlying award.
+Other Benefits
+WFC provides health care and other benefits for certain active and retired employees. The Company
+reserves the right to amend, modify or terminate and of the benefits at any time.
+
+19
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+(j)
+
+Acquisition of Intangible Assets
+
+On December 26, 2017, the Company acquired certain customer contracts and associated relationships from
+WFCS. The carrying value of these customer relationships as of June 30, 2019 is $1,323 and is included in
+other assets on the Statement of Financial Condition. The asset is being amortized over a three year period
+on an accelerated basis. No impairment losses were recorded during the period ended June 30, 2019 with
+respect to this asset.
+(13) Derivatives
+The Company is a party to derivative financial instruments and commitments in the normal course of business to
+meet the financing needs of customers, conduct trading activities, and manage market risks. These derivative
+financial instruments include futures, options, swaps, swaptions, forward commitments to purchase and sell
+securities, securities purchased and sold on a when issued basis (when issued securities), and firm underwriting
+commitments. These instruments and commitments involve, to varying degrees, elements of credit and market
+risk. Credit risk is the possibility that a loss may occur because a party to a transaction fails to perform according
+to the terms of the contract. Market risk is the possibility that a change in interest rates, the underlying assets,
+indices or a combination of these factors will cause an unfavorable change in the value of a financial instrument.
+The Company controls the credit risk arising from these instruments and commitments through its credit approval
+process and through the use of risk control limits and monitoring procedures. It evaluates each customer’s or other
+broker dealer’s creditworthiness on a case by case basis. If collateral is deemed necessary to reduce credit risk,
+the amount and nature of the collateral obtained is based on management’s credit evaluation of the other party.
+Based on the Company’s assessment of each of its counterparties, additional collateral was not required by the
+Company at June 30, 2019.
+The notional principal or contractual amounts of derivative financial instruments exceed the probable loss that
+could arise from counterparty default or market related risks. The fair value of derivative financial instruments
+represents principally the estimated unrealized gain (asset) or loss (liability) and is recorded in financial
+instruments owned, at fair value or financial instruments sold, not yet purchased in the Statement of Financial
+Condition. The market risk associated with trading financial instruments, including derivatives, the prices of
+which are constantly fluctuating, is managed by imposing limits as to the type, amounts, and degree of risk that
+traders may undertake. These limits, approved by senior management and the risk positions of traders, are
+reviewed on a daily basis to monitor compliance with the limits.
+
+20
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+As of June 30, 2019, the following were the notional or contractual amounts of derivative financial instruments
+and their related fair values:
+Notional or
+Fair value
+contractual
+Derivative
+Derivative
+Derivative instruments
+amount
+assets
+liabilities
+Interest rate contracts
+$
+410,861,956
+910,369
+(1,009,176)
+Equity contracts
+23,392,548
+296,577
+(357,698)
+Foreign exchange contracts
+670,612
+710
+(1,840)
+Credit contracts - protection sold
+1,049,523
+50,846
+(34,631)
+Credit contracts - protection purchased
+1,853,892
+34,866
+(82,003)
+Sub-total
+437,828,531
+1,293,368
+(1,485,348)
+Netting (1)
+(1,100,429)
+1,171,591
+Total
+$
+437,828,531
+192,939
+(313,757)
+(1)
+
+Represents balance sheet netting of derivative asset and liability balances and related cash collateral. See the next
+table in this Note for further information.
+
+Forward and commodity contracts are contracts for delayed delivery of securities or money market instruments
+in which the seller agrees to make delivery at a specified future date of a specified instrument, at a specified price
+or yield. Equity contracts are contracts that allow the holder of the option to purchase or sell a financial instrument
+at a specified price and within a specified period of time from the seller or writer of the option. As a writer of
+options, the Company receives a premium at the outset and then bears the risk of an unfavorable change in the
+price of the financial instrument underlying the option and other market risk factors that may impact the fair value
+of the option.
+The following table provides information on the gross fair values of assets and liabilities, the Statement of
+Financial Condition netting adjustments and the resulting net fair value amount recorded in the Statement of
+Financial Condition, as well as the non-cash collateral associated with such arrangements. The “Net Amounts”
+column within the following table represents the aggregate of our net exposure to each counterparty after
+considering the Statement of Financial Condition and disclosure-only netting adjustments. We manage derivative
+exposure by monitoring the credit risk associated with each counterparty using counterparty specific credit limits,
+using master netting arrangements and obtaining collateral. Derivative contracts executed in over-the-counter
+markets include bilateral contractual arrangements that are not cleared through a central clearing organization but
+are typically subject to master netting arrangements. The percentage of our bilateral derivative transactions
+outstanding at period end in such markets, based on gross fair value, is provided within the following table. Other
+derivative contracts executed in over-the-counter or exchange-traded markets are settled through a central clearing
+organization and are excluded from this percentage.
+In addition to the netting amounts included in the table, we also have Statement of Financial Condition netting
+related to resale and repurchase agreements that are disclosed within Note 16. The Company has no derivatives
+that contain features that are contingent upon the credit ratings of the Company or its affiliates.
+
+21
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+
+Gross
+amounts
+recognized
+
+Gross
+amounts
+offset in
+Statement of
+Financial
+Condition (1)
+
+Net amounts
+in
+Statement of
+Financial
+Condition (2)
+
+Gross
+amounts
+not offset in
+Statement of
+Financial
+Condition
+(Disclosureonly netting) (3)
+
+Net
+amounts
+
+Percentage
+exchanged in
+over-the
+counter
+market (4)
+
+Derivative assets
+$
+Interest rate contracts
+Equity contracts
+Foreign exchange contracts
+Credit contracts - protection sold
+Credit contracts - protection purchased
+$
+
+910,369
+296,577
+710
+50,846
+34,866
+1,293,368
+
+(721,435)
+(292,736)
+(710)
+(50,682)
+(34,866)
+(1,100,429)
+
+188,934
+3,841
+164
+192,939
+
+-
+
+188,934
+3,841
+164
+192,939
+
+41%
+0%
+100%
+100%
+100%
+
+Derivative liabilities
+$
+Interest rate contracts
+Equity contracts
+Foreign exchange contracts
+Credit contracts - protection sold
+Credit contracts - protection purchased
+$
+
+(1,009,176)
+(357,698)
+(1,840)
+(34,631)
+(82,003)
+(1,485,348)
+
+695,959
+357,573
+1,837
+34,565
+81,657
+1,171,591
+
+(313,217)
+(125)
+(3)
+(66)
+(346)
+(313,757)
+
+-
+
+(313,217)
+(125)
+(3)
+(66)
+(346)
+(313,757)
+
+51%
+18%
+100%
+100%
+100%
+
+(1) Represents amounts with counterparties subject to enforceable master netting arrangements that have been offset in the Statement of Financial Condition,
+including related cash collateral and portfolio level counterparty valuation adjustments. There were no counterparty valuation adjustments related
+to derivative assets or derivative liabilities at June 30, 2019. Additionally, cash collateral amounts of $104,149 and $176,828 were netted against derivative
+assets and liabilities, respectively, at June 30, 2019.
+(2) Net derivative assets are classified in financial instruments owned, at fair value, and Net derivative liabilities are classified in financial instruments sold,
+not yet purchased, at fair value, in the Statement of Financial Condition.
+(3) Represents non-cash collateral pledged and received against derivative assets and liabilities with the same counterparty that are subject to enforceable
+master netting arrangements. U.S. GAAP does not permit netting of such non-cash collateral balances in the Statement of Financial Condition, but
+requires disclosure of these amounts.
+(4) Represents derivatives executed in over-the-counter markets that are not settled through a central clearing organization. Over-the-counter percentages
+are calculated based on gross amounts recognized as of the balance sheet date. The remaining percentage represents derivatives settled through a central
+clearing organization, which are executed in either over-the-counter or exchange-traded markets.
+
+Credit Derivatives
+The Company uses credit derivatives to manage exposure to credit risk related to its customer accommodation
+and market making activity. This may include protection purchased to offset securities owned or sold protection.
+This credit risk management provides an ability to recover a significant portion of any amounts that would be
+paid under the credit derivatives written by the Company. The majority of the credit contracts are executed with
+an affiliate, WFBNA, and the Company would be required to perform under the noted credit derivatives in the
+event of a default by the referenced obligors. Excluded from maximum exposure are written credit protection
+contracts with a notional amount of $838,796 where the Company has also purchased offsetting credit protection
+with the same counterparty, WFBNA, on the same referenced obligation and where the term and amount of the
+purchased protection equals or exceeds the term of the written credit protection. Events of default include events
+such as bankruptcy, capital restructuring or lack principal and/or interest payment. In certain cases, other triggers
+may exist, such as the credit downgrade of the referenced obligors. The following table provides details of sold
+and purchased credit derivatives as of June 30, 2019.
+22
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+
+Fair value
+liability
+
+Credit default swaps – corporate bonds
+Credit default swaps – structured products
+Credit protection - CDS index
+Credit protection - commercial MBS
+Total credit derivatives
+
+$
+
+$
+
+(33,978)
+(150)
+(503)
+(34,631)
+
+Protection
+sold (A)
+
+586,082
+5,000
+226,545
+229,797
+1,047,424
+
+Notional amount
+Protection
+Protection
+Net
+sold - nonpurchased
+protection
+investment with identical
+sold
+grade
+unde rlyings (B)
+(A) - (B)
+
+433,447
+5,000
+226,545
+664,992
+
+332,809
+316,100
+189,887
+838,796
+
+253,273
+5,000
+(89,555)
+39,910
+208,628
+
+Other
+protection
+purchased
+
+471,560
+5,000
+493,648
+49,887
+1,020,095
+
+Range of
+maturities
+
+2019-2024
+2022
+2019-2024
+2047-2058
+
+The Protection sold – non-investment grade category is based on the portion of the maximum loss exposure for
+which there is a greater risk that the Company will be required to make a payment or perform under the credit
+derivative. The current status of the risk of payment or performance being required is considered high if the
+underlying assets under the credit derivative have an external rating that is below investment grade or an internal
+credit default grade that would be equivalent to below investment grade external rating. It is important to note
+that the Protection sold – non-investment grade represents the amount of exposure which would be incurred under
+an assumed hypothetical circumstance and, accordingly, this disclosure is not an indication of expected loss for
+which payment is of a high likelihood. Such payment may not result in a loss. As such, the Protection sold – noninvestment grade column is not an indication of loss probability.
+(14) Guarantees, Commitments, and Contingent Liabilities
+Underwriting Commitments
+In the normal course of business, the Company enters into debt and equity underwriting commitments.
+Transactions relating to such underwriting commitments that were open at June 30, 2019, and were subsequently
+settled had no material impact on the Company’s Statement of Financial Condition.
+Litigation
+The Company has been named as a defendant in various legal actions arising from its normal business activities,
+and many of those proceedings expose the Company to potential financial loss. We establish accruals for legal
+actions when potential losses associated with the actions become probable and the costs can be reasonably
+estimated. For such accruals, we record the amount we consider to be the best estimate within a range of potential
+losses that are both probable and estimable; however, if we cannot determine a best estimate, then we record the
+low end of the range of those potential losses. The actual costs of resolving legal actions may be substantially
+higher or lower than the amounts accrued for those actions. Based on information currently available, advice of
+counsel, available insurance coverage and established reserves, the Company believes that the eventual outcome
+of the actions against it will not, individually or in the aggregate, have a material adverse effect on the Company’s
+financial position. However, it is possible that the ultimate resolution of a matter, if unfavorable, may be material
+to the Company’s Statement of Financial Condition for any particular period.
+Exchange and Clearing House Guarantees
+The Company is a member of exchanges and clearing houses that the Company uses to clear its trades and those
+of the Company’s customers. It is common that all members in these organizations are required to collectively
+23
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+guarantee the performance of other members. Our obligations under the guarantees are based on a fixed amount
+or a multiple of the collateral we are required to maintain with these organizations. The Company has not recorded
+a liability for these arrangements because we believe the likelihood of loss is remote. The maximum exposure to
+loss represents the estimated loss that would be incurred under an assumed hypothetical circumstance, despite
+what it believes is an extremely remote possibility, where the value of our interests and any associated collateral
+declines to zero. The maximum exposure to loss related to our clearing house arrangements at June 30, 2019 is
+$3,528,597. The Company has made deposits with clearing organization in the form of cash of $1,503,075. The
+Company has also made deposits with clearing organizations with pledged collateral of $1,329,565.
+The Company clears transactions on behalf of its clients through various clearing houses, and the Company stands
+behind the performance of its clients on such trades. The Company mitigates its exposure to loss in the event of
+a client default by requiring that clients provide appropriate amounts of margin at the inception and throughout
+the life of the transaction. The Company may cease providing clearing services to clients if they do not adhere to
+their obligations under the clearing agreement. It is difficult to estimate the Company’s maximum exposure under
+such transactions, as this would require an assessment of transactions that clients may execute in the future. The
+Company manages the exposure through setting credit limits for clients and maintaining termination right over
+clearing contracts. However, based upon historical experience, the Company believes it is unlikely that it will
+have to make any material payments under these arrangements and the risk of loss is expected to be remote.
+Other Contingencies
+The Company introduces certain of its customer transactions to an affiliated clearing broker, WFCS, with whom
+it has a correspondent relationship for clearance and depository services in accordance with the terms of the
+clearance agreement. In connection therewith, the Company has agreed to indemnify WFCS for credit losses that
+WFCS may sustain as a result of the failure of the Company’s customers to satisfy their obligations in connection
+with their securities transactions. As of June 30, 2019, substantially all customer obligations were collateralized
+by securities with a market value in excess of the obligations.
+Some contracts that the Company enters into in the normal course of business include indemnification provisions
+that obligate the Company to make payments to the counterparty or others in the event certain events occur. The
+contingencies generally relate to the changes in the value of underlying assets, liabilities, or equity securities or
+upon the occurrence of events, such as an adverse litigation judgment or an adverse interpretation of the tax law.
+The indemnification clauses are often standard performance of 10 years average annual returns contractual terms and were entered into in the normal course of
+business based on an assessment that the risk of loss would be remote. Since there are no stated or notional
+amounts included in the indemnification clauses and the contingencies triggering the obligation to indemnify have
+not occurred and are not expected to occur, the Company is not able to estimate the maximum potential amount
+of future payments under these indemnification clauses. There are no amounts reflected in the Statement of
+Financial Condition as of June 30, 2019, related to these indemnifications.
+On February 2, 2018, WFC entered into a consent order with the Board of Governors of the Federal Reserve
+System (“FRB”). As required by the consent order, the WFC’s Board of Directors submitted to the FRB a plan
+to further enhance its governance and oversight of WFC, and WFC submitted to the FRB a plan to further
+improve its compliance and operational risk management program. WFC continues to engage with the FRB as it
+works to address the consent order provisions. The consent order also requires WFC, following the FRB’s
+acceptance and approval of the plans and WFC’s adoption and implementation of the plans, to complete an
+24
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+initial third-party review of the enhancements and improvements provided for in the plans. Until this third-party
+review is complete and the plans are approved and implemented to the satisfaction of the FRB, WFC’s total
+consolidated assets will be limited to the level as of December 31, 2017. Compliance with this asset cap will be
+measured on a two-quarter daily average basis to allow for management of temporary fluctuations. At June 30,
+2019, WFC’s total consolidated assets, as calculated pursuant to the requirements of the consent order, were
+below the level of total assets as of December 31, 2017. Additionally, after removal of the asset cap, a second
+third-party review must also be conducted to assess the efficacy and sustainability of the enhancements and
+improvements.
+(15)
+
+Securities Financing Activities
+
+The Company enters into resale and repurchase agreements and securities borrowing and lending agreements
+(collectively, “securities financing activities”) primarily to finance inventory positions, acquire securities to cover
+short trading positions, accommodate customers’ financing needs, and settle other securities obligations. The
+majority of securities financing activities involve high quality, liquid securities such as U.S. Treasury securities
+and government agency securities, and to a lesser extent, less liquid securities, including equity securities,
+corporate bonds and asset-backed securities. These transactions are accounted for as collateralized financings
+which are typically received or pledged securities as collateral. These financing transactions generally do not have
+material credit risk given the collateral provided and the related monitoring processes.
+Offsetting of resale and repurchase agreements and securities borrowing and lending agreements
+The table below presents resale and repurchase agreements subject to master repurchase agreements (MRA) and
+securities borrowing and lending agreements subject to master securities lending agreements (MSLA). The
+Company accounts for transactions subject to these agreements as collateralized financings, and those with a
+single counterparty are presented net on the Statement of Financial Condition, provided certain criteria are met
+that permit netting. Most transactions subject to these agreements do not meet those criteria and thus are not
+eligible for Statement of Financial Condition netting. There were no securities borrowing or lending agreements
+subject to MSLAs that were eligible for netting.
+Collateral pledged consists of non-cash instruments, such as securities or loans, and is not netted on the Statement
+of Financial Condition against the related liability. Collateral received includes securities or loans and is not
+recognized in the Statement of Financial Condition. Collateral pledged or received may be increased or decreased
+over time to maintain certain contractual thresholds as the assets underlying each arrangement fluctuate in value.
+Generally, these agreements require collateral to exceed the asset or liability recognized in the Statement of
+Financial Condition. The following table includes the amount of collateral pledged or received related to
+exposures subject to enforceable MRAs or MSLAs.
+
+25
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+While these agreements are typically over-collateralized, U.S. GAAP requires disclosure in this table to limit the
+amount of such collateral to the amount of the related recognized asset or liability for each counterparty:
+Assets:
+Resale and securities borrowing agreements
+Gross amounts recognized
+
+$
+
+Gross amounts offset in Statement of Financial Condition
+
+(1)
+
+74,406,815
+(11,415,307)
+
+Net amounts in Statement of Financial Condition(2)
+Collateral not recognized in Statement of Financial Condition
+
+(3)
+
+62,991,508
+(62,317,903)
+
+Net amount (4)
+
+$
+
+673,605
+
+$
+
+108,498,393
+
+Liabilities:
+Repurchase and securities lending agreements
+Gross amounts recognized
+Gross amounts offset in Statement of Financial Condition
+
+(1)
+
+(11,415,307)
+
+Net amounts in Statement of Financial Condition(5)
+Collateral pledged but not netted in Statement of Financial Condition(6)
+Net amount (7)
+
+97,083,086
+(96,934,694)
+
+$
+
+148,392
+
+(1)
+
+Represents recognized amount of resale and repurchase agreements with counterparties subject to enforceable M RAs that
+have been offset in the Statement of Financial Condition.
+
+(2)
+
+At June 30, 2019, includes $27,667,790, classified on our Statement of Financial Condition in securities purchased under
+agreements to resell, and $35,323,718 in securities borrowed.
+
+(3)
+
+Represents the fair value of collateral we have received under enforceable M RAs or M SLAs, limited for table
+presentation purposes to the amount of the recognized asset due from each counterparty. At June 30, 2019, we have
+received total collateral with a fair value of $74,674,572, all of which we have the right to sell or repledge. These amounts
+include amounts we have sold or repledged to others with a fair value of $70,437,454.
+
+(4)
+
+Represents the amount of our exposure that is not collateralized and/or is not subject to an enforceable M RA.
+
+(5)
+
+At June 30, 2019, includes $89,424,345, classified on our Statement of Financial Condition in securities sold under
+agreements to repurchase, and $7,658,741 in securities loaned.
+
+(6)
+
+Represents the fair value of collateral we have pledged, related to enforceable M RAs or M SLAs, limited for table
+presentation purposes to the amount of the recognized liability owed to each counterparty. At June 30, 2019, we have
+pledged total collateral with a fair value of $110,151,458, all of which the counterparty has the right to sell or repledge.
+
+(7)
+
+Represents the amount of our exposure that is not covered by pledged collateral and/or is not subject to an enforceable
+M RA or M SLA.
+
+Repurchase and securities lending agreements
+Securities sold under repurchase agreements and securities lending arrangements are effectively short-term
+collateralized borrowings. In these transactions, cash is received in exchange for transferring securities as
+collateral and an obligation is recognized to reacquire the securities for cash at the transaction's maturity. These
+26
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+types of transactions create risks, including (1) the counterparty may fail to return the securities at maturity; (2)
+the fair value of the securities transferred may decline below the amount of our obligation to reacquire the
+securities, and therefore create an obligation for us to pledge additional amounts; and (3) the counterparty may
+accelerate the maturity on demand, requiring the Company to reacquire the security prior to contractual maturity.
+The Company attempts to mitigate these risks by the fact that the majority of our securities financing activities
+involve highly liquid securities; we underwrite and monitor the financial strength of our counterparties; we
+monitor the fair value of collateral pledged relative to contractually required repurchase amounts; and we monitor
+that our collateral is properly returned through the clearing and settlement process in advance of our cash payment.
+The following table provides the underlying collateral types of our gross obligations under repurchase and
+securities lending agreements.
+Total Gross Obligation
+Repurchase agreements:
+Corporate obligations
+
+$
+
+Asset-backed securities
+
+8,133,177
+2,258,311
+
+M ortgage-backed securities
+
+41,576,376
+
+U.S. government, U.S. agency and municipal government obligations
+
+45,972,432
+
+Equity securities
+
+2,033,406
+
+Other
+
+865,950
+
+Total repurchases
+
+100,839,652
+
+Securities lending:
+Corporate obligations
+
+$
+
+U.S. government, U.S. agency and municipal government obligations
+
+341,715
+—
+
+Equity securities (1)
+
+7,301,274
+
+Other
+
+15,752
+
+Total securities lending
+
+7,658,741
+
+Total repurchases and securities lending
+
+$
+
+108,498,393
+
+(1) Equity securities are generally exchange traded and either re-hypothecated under margin lending agreements or obtained through
+contemporaneous securities borrowing transactions with other counterparties.
+
+27
+
+WELLS FARGO SECURITIES, LLC
+(An Indirect Wholly-Owned Subsidiary of Wells Fargo & Company)
+Notes to Statement of Financial Condition
+June 30, 2019
+(Unaudited, Dollars in thousands)
+The following table provides the contractual maturities of gross obligations under repurchase and securities
+lending agreements.
+Overnight/ Continuous
+Repurchase agreements
+
+$
+
+Securities lending
+Total (1)
+
+(1)
+
+$
+
+Up to 30 days
+
+30-90 days
+
+>90 days
+
+89,366,572
+
+3,565,021
+
+3,789,059
+
+4,119,000
+
+7,510,859
+
+—
+
+147,882
+
+—
+
+96,877,431
+
+3,565,021
+
+3,936,941
+
+4,119,000
+
+Total Gross Obligation
+100,839,652
+7,658,741
+108,498,393
+
+Repurchase and securities lending transactions are primarily conducted under enforceable master lending agreements that allow either party to
+terminate the transaction on demand. These transactions have been reported as continuous obligations unless the MRA or MSLA has been
+modified with an overriding agreement that specifies an alternative termination date.
+
+(16) Net Capital
+The Company is subject to the SEC’s Uniform Net Capital Rule (Rule 15c3-1) and the Commodities Futures
+Trading Commission (CFTC) Regulation 1.17 which requires the maintenance of minimum net capital. Under
+SEC Rule 15c3-1, the Company has elected to use the alternative method, permitted by the rule, which requires
+that the Company maintain minimum net capital, as defined, equal to the greater of $1,500 or 2% of combined
+aggregate debit balances arising from customer transactions, as defined. Under CFTC Regulation 1.17, the
+Company is required to maintain an adjusted net capital equivalent to the greater of $1,500 or $959,793, which
+was 8% of the total risk margin requirements for all positions carried in customer and non-customer accounts plus
+additional net capital requirements related to certain reverse repurchase agreements. At June 30, 2019, the
+Company had net capital of $8,579,884, which was 53.69% of aggregate debit items and $7,620,091 in excess of
+the minimum net capital requirement.
+(17) Subsequent Events
+The Company has evaluated the effects of subsequent events that have occurred subsequent to June 30, 2019 and
+through August 29, 2019 the date the Company issued its Statement of Financial Condition. During this period,
+there have been no material subsequent events that would require recognition or disclosure in the Statement of
+Financial Condition.
+
+28
+
+
